@@ -36,7 +36,8 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 <img width="1600" height="687" alt="image" src="https://github.com/user-attachments/assets/a131e8a6-57a4-41b4-bf38-ead497cfdf31" />
-<img width="986" height="831" alt="image" src="https://github.com/user-attachments/assets/92f3e8f5-1284-42c3-a206-38610b40036c" />
+<img width="987" height="977" alt="image" src="https://github.com/user-attachments/assets/701178a0-4ace-4468-acd5-59b6049e2723" />
+
 
 Bridge rectifier with filter:
 <img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/789b2692-6af1-409e-ae9e-8b49c2f3e1fa" />
